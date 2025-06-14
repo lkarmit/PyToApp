@@ -1,2 +1,3 @@
 # PyToApp
-PyToApp is a automated app that turns python files into MacOS .app files
+PyToApp is Dedicated to making your life as a developer easier
+PyToApp is a Automatic app that turns python files into a .app file
